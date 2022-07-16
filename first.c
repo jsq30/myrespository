@@ -3,7 +3,17 @@
 
 int main()
 {
-	printf("jsq30\n");
+	
+
+
+
+
+
+
+
+
+
+	printf("jsqnb\n");
 	while(1);
 	return 0;
 
